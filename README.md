@@ -19,7 +19,7 @@ A Python script to calculate IPv4 subnets for both **classful (A/B/C)** and **cl
 
 🛠️ Usage
 Classful Subnetting Example
-
+```
 Enter IP address: 192.168.1.0
 Enter required number of subnets: 4
 
@@ -44,7 +44,7 @@ Number of hosts for subnet 2: 50
 | 128  | 10.0.0.0/25      | 10.0.0.127/25   | 255.255.255.128 |
 | 64   | 10.0.0.128/26    | 10.0.0.191/26   | 255.255.255.192 |
 -----------------------------------------------------------
-
+```
 
 ❓ Support
 For help or questions:
